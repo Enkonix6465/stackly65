@@ -1,0 +1,1114 @@
+{
+  "Hedder": {
+    "home": "Home",
+    "About_Us": "About Us",
+    "Services": "Services",
+    "All_Services": "All Services",
+    "Tax_Planning": "Tax Planning",
+    "Audit_&_Assurance": "Audit & Assurance",
+    "Bookkeeping": "Bookkeeping",
+    "Payroll_Management": "Payroll Management",
+    "Financial_Consulting": "Financial Consulting",
+    "Investment_Advisory": "Investment Advisory",
+    "Blog": "Blog",
+    "Contact_Us": "Contact Us",
+    "Profile": "Profile",
+    "AdminDashboard": "Admin Dashboard",
+    "Logout": "Logout"
+  },
+  "Footer": {
+    "Description": "Expert solutions for tax planning, auditing, bookkeeping, payroll, and financial consulting. Empowering your business with trusted accounting services.",
+    "Quick_Links": "Quick Links",
+    "Our_Services": "Our Services",
+    "Contact_Us": "Contact Us",
+    "Address": "123 Finance Ave, Suite 100\nNew York, NY 10001",
+    "All_rights_reserved": "All rights reserved."
+  },
+  "Home1": {
+    "title": "FinAccount - Finance & Accounting Services",
+    "meta_description": "Expert financial solutions and accounting services for your business.",
+    "hero_title": "Finance & Accounting Services",
+    "hero_description": "Empowering your business with expert financial solutions, accounting accuracy, and strategic insights for growth.",
+    "about_image1_alt": "Business Steps",
+    "about_image2_alt": "Analytics",
+    "about_image3_alt": "Video",
+    "about_title": "Expert Finance & Accounting Solutions",
+    "about_subtitle": "For Your Business Growth",
+    "about_description": "We specialize in providing comprehensive financial management, accounting, and tax services tailored for businesses of all sizes. Our team of certified professionals ensures accuracy, compliance, and strategic insights to help you make informed decisions and achieve sustainable growth. Partner with us for transparent, reliable, and secure financial solutions.",
+    "what_we_do_badge": "WHAT WE DO",
+    "what_we_do_title": "Comprehensive Finance & Accounting Solutions",
+    "what_we_do_description1": "We deliver tailored financial and accounting services to help businesses thrive. From daily bookkeeping to advanced financial reporting, our experts ensure your numbers are accurate and your strategy is sound.",
+    "what_we_do_description2": "Our commitment to excellence means you get transparent advice, reliable support, and innovative solutions for tax, compliance, and financial management. Let us handle the details so you can focus on growth.",
+    "best_service_awards_title": "Best Service Awards",
+    "best_service_awards_description": "Recognized for outstanding client service and trusted financial expertise in the industry.",
+    "bookkeeping_description": "Maintain accurate records and streamline your day-to-day financial operations with our expert bookkeeping services.",
+    "financial_statements_title": "Financial Statements",
+    "financial_statements_description": "Get clear, compliant, and timely financial statements to support decision-making and regulatory needs.",
+    "financial_management_title": "Financial Management",
+    "financial_management_description": "Optimize your business growth and profitability with strategic financial planning and management solutions.",
+    "learn_more": "Learn More",
+    "why_choose_us_badge": "WHY CHOOSE US",
+    "why_choose_us_title": "Your Trusted Finance & Accounting Partner",
+    "why_choose_us_description": "Discover the key reasons businesses rely on us for their financial success and peace of mind.",
+    "certified_experts_title": "Certified Experts",
+    "certified_experts_description": "Our team consists of certified accountants and financial specialists with years of industry experience.",
+    "personalized_solutions_title": "Personalized Solutions",
+    "personalized_solutions_description": "We tailor our services to meet your unique business needs, ensuring optimal results and satisfaction.",
+    "transparent_secure_title": "Transparent & Secure",
+    "transparent_secure_description": "We prioritize transparency, confidentiality, and data security in every financial transaction and report.",
+    "process_image_alt": "Business Professional",
+    "about_finaccount_badge": "ABOUT FINACCOUNT",
+    "largest_demand_title": "Largest Demand Partnership",
+    "building_experts_subtitle": "Building Financial Experts",
+    "finaccount_description": "FinAccount is a trusted name for providing financial assistance. Our main objective is to ensure the service we provide is loyal to the industry, experienced, and professional.",
+    "support_raising_funds_title": "Support On Raising Funds",
+    "support_raising_funds_description": "Our financial experts help you find the best way to raise your funds and grow your business.",
+    "outsourced_consulting_title": "Outsourced Consulting Business",
+    "outsourced_consulting_description": "FinAccount provides expert assistance to help you hire consultants for service and business growth.",
+    "team_member_badge": "TEAM MEMBER",
+    "meet_team_title": "Meet Our Expert Team Members",
+    "team_priya_name": "Priya Sharma",
+    "team_priya_role": "Chief Financial Officer",
+    "team_david_name": "David Lee",
+    "team_david_role": "Tax & Compliance Specialist",
+    "team_maria_name": "Maria Gomez",
+    "team_maria_role": "Senior Accountant",
+    "team_james_name": "James O'Connor",
+    "team_james_role": "Audit & Assurance Lead"
+  },
+  "Home2": {
+    "meta": {
+      "title": "FinAccount - Elevate Your Business with Finance Expertise",
+      "description": "Unlock growth, compliance, and clarity with our modern accounting and financial solutions."
+    },
+    "Hero": {
+      "title1": "Elevate Your Business",
+      "title2": "with Finance Expertise",
+      "description": "Unlock growth, compliance, and clarity with our modern accounting and financial solutions.",
+      "cta": "Get Started",
+      "image_alt": "Finance Team"
+    },
+    "About": {
+      "badge": "ABOUT US",
+      "title": "Trusted Financial Guidance for Modern Businesses",
+      "description": "Our team delivers expert accounting, tax, and advisory services tailored for startups, SMEs, and enterprises. We combine technology and experience to help you make confident decisions.",
+      "cta": "Learn More",
+      "image_alt": "About Finance"
+    },
+    "Services": {
+      "title": "Our Services",
+      "TaxStrategy": {
+        "title": "Tax Strategy",
+        "desc": "Reduce tax burdens and enhance savings with smart planning."
+      },
+      "Payroll": {
+        "title": "Payroll Services",
+        "desc": "Seamless, precise payroll processing for every workforce."
+      },
+      "RiskAssurance": {
+        "title": "Risk & Assurance",
+        "desc": "Thorough reviews to ensure accuracy and reliability."
+      },
+      "FinancialInsights": {
+        "title": "Financial Insights",
+        "desc": "Accurate, up-to-date data for better business choices."
+      },
+      "StrategicAdvisory": {
+        "title": "Strategic Advisory",
+        "desc": "Guidance to boost growth, compliance, and direction."
+      }
+    },
+
+    "Process": {
+      "title": "How We Work",
+      "Discovery": {
+        "title": "Discovery",
+        "desc": "We listen to your needs and goals."
+      },
+      "Analysis": {
+        "title": "Analysis",
+        "desc": "We review your finances and identify opportunities."
+      },
+      "Strategy": {
+        "title": "Strategy",
+        "desc": "We design a custom plan for your business."
+      },
+      "Execution": {
+        "title": "Execution",
+        "desc": "We implement solutions and keep you informed."
+      },
+      "Support": {
+        "title": "Support",
+        "desc": "We provide ongoing advice and updates."
+      }
+    },
+    "Testimonials": {
+      "title": "Client Stories",
+      "member1": {
+        "name": "Amit Verma",
+        "company": "Verma Textiles",
+        "feedback": "Their team helped us streamline our finances and plan for growth."
+      },
+      "member2": {
+        "name": "Sarah Johnson",
+        "company": "Johnson Consulting",
+        "feedback": "Professional, reliable, and always available for support."
+      },
+      "member3": {
+        "name": "Mohammed Al-Farsi",
+        "company": "Al-Farsi Trading",
+        "feedback": "We trust them for all our audit and compliance needs."
+      }
+    },
+    "CTA": {
+      "title": "Ready to Transform Your Finances?",
+      "description": "Partner with us for expert accounting, strategic planning, and business growth. Take the next step toward financial clarity and success.",
+      "cta": "Get Started Now"
+    }
+  },
+  "AboutUs": {
+    "meta": {
+      "title": "About Us - FinAccount",
+      "description": "Learn more about our team, mission, and expertise in finance and accounting."
+    },
+    "Hero": {
+      "title": "About FinAccount",
+      "description": "Empowering businesses with expert finance and accounting solutions for growth and clarity.",
+      "cta": "Meet Our Team",
+      "image_alt": "About Us"
+    },
+    "Story": {
+      "badge": "10+ Years of Excellence",
+      "title": "From Startup to Trusted Partner",
+      "description": "FinAccount was founded in 2015 by a group of passionate finance professionals who believed that every business deserves clarity, confidence, and growth. What started as a small consultancy in a single-room office has grown into a leading firm serving hundreds of clients across industries.",
+      "timeline": [
+        "2015: Founded with a vision for transparent finance.",
+        "2017: Expanded services to include tax, payroll, and advisory.",
+        "2020: Reached 100+ clients, launched digital solutions.",
+        "2023: Recognized as a top finance partner for SMEs."
+      ],
+      "quote": "Our journey is defined by our clients' success. Every milestone reflects our commitment to integrity, innovation, and partnership.",
+      "signature": "— The FinAccount Team",
+      "image_alt": "Our Story"
+    },
+    "Mission": {
+      "badge": "MISSION & VALUES",
+      "title": "Our Mission",
+      "description": "To deliver transparent, reliable, and innovative financial solutions that empower our clients to thrive. We believe in building trust, embracing change, and always putting our clients first.",
+      "quote": "Integrity, innovation, and client focus are the pillars of our success.",
+      "signature": "— FinAccount Leadership"
+    },
+    "Values": {
+      "cards": [
+        {
+          "title": "Integrity",
+          "desc": "We uphold the highest standards of honesty and ethics in all our work."
+        },
+        {
+          "title": "Innovation",
+          "desc": "We embrace technology and new ideas to deliver better results."
+        },
+        {
+          "title": "Client Focus",
+          "desc": "We put our clients' needs first, building lasting relationships."
+        }
+      ]
+    },
+    "Team": {
+      "badge": "OUR TEAM",
+      "title": "Meet the Experts",
+      "quote": "Our strength lies in our people. Every client success is a team achievement.",
+      "signature": "— FinAccount Team",
+      "member1": {
+        "name": "Amit Verma",
+        "role": "Founder & CEO"
+      },
+      "member2": {
+        "name": "Sarah Johnson",
+        "role": "Lead Accountant"
+      },
+      "member3": {
+        "name": "Mohammed Al-Farsi",
+        "role": "Tax Specialist"
+      }
+    },
+    "Expertise": {
+      "badge": "OUR EXPERTISE",
+      "title": "What We Do Best",
+      "description": "Our team combines deep industry knowledge with innovative solutions to help your business thrive. Explore our core areas of expertise below.",
+      "quote": "Expertise is not just what we do—it's how we empower our clients to succeed.",
+      "signature": "— FinAccount Experts",
+      "cards": {
+        "0": {
+          "title": "Accounting & Bookkeeping",
+          "desc": "Accurate records and reporting for peace of mind."
+        },
+        "1": {
+          "title": "Tax Planning & Compliance",
+          "desc": "Smart strategies to minimize liabilities and stay compliant."
+        },
+        "2": {
+          "title": "Financial Advisory",
+          "desc": "Expert guidance for growth, investment, and decision-making."
+        },
+        "3": {
+          "title": "Payroll Management",
+          "desc": "Efficient payroll solutions for every business size."
+        },
+        "4": {
+          "title": "Audit & Assurance",
+          "desc": "Thorough reviews to ensure accuracy and reliability."
+        },
+        "5": {
+          "title": "Business Consulting",
+          "desc": "Tailored advice to help you reach your goals."
+        }
+      }
+    },
+    "CTA": {
+      "title": "Ready to Transform Your Finances?",
+      "description": "Partner with us for expert accounting, strategic planning, and business growth. Take the next step toward financial clarity and success.",
+      "badge": "Trusted by 100+ Businesses",
+      "cta": "Get Started Now"
+    }
+  },
+  "Services": {
+    "meta": {
+      "title": "Our Services",
+      "description": "Explore our range of services."
+    },
+    "Hero": {
+      "title": "Our Services",
+      "description": "Discover how our expert solutions can help your business grow, stay compliant, and thrive in a changing world.",
+      "cta": "View All Services",
+      "image_alt": "Services"
+    },
+    "Overview": {
+      "title": "Explore Our Services",
+      "description": "Choose from our comprehensive suite of financial services, each designed to help your business thrive. Click any service to learn more.",
+      "learn_more": "Learn More →"
+    },
+    "List": {
+      "AccountingBookkeeping": {
+        "title": "Accounting & Bookkeeping",
+        "desc": "Accurate records and reporting for peace of mind."
+      },
+      "TaxPlanning": {
+        "title": "Tax Planning & Compliance",
+        "desc": "Smart strategies to minimize liabilities and stay compliant."
+      },
+      "InvestmentAdvisory": {
+        "title": "Investment Advisory",
+        "desc": "Expert guidance for growth, investment, and decision-making."
+      },
+      "PayrollManagement": {
+        "title": "Payroll Management",
+        "desc": "Efficient payroll solutions for every business size."
+      },
+      "AuditAssurance": {
+        "title": "Audit & Assurance",
+        "desc": "Thorough reviews to ensure accuracy and reliability."
+      },
+      "FinancialConsulting": {
+        "title": "Financial Consulting",
+        "desc": "Tailored advice to help you reach your goals."
+      }
+    },
+    "Benefits": {
+      "title": "Why Choose FinAccount?",
+      "ExpertTeam": {
+        "label": "Expert Team",
+        "desc": "Our professionals bring years of experience and deep industry knowledge."
+      },
+      "ProvenResults": {
+        "label": "Proven Results",
+        "desc": "We deliver measurable improvements and lasting value."
+      },
+      "PersonalizedSolutions": {
+        "label": "Personalized Solutions",
+        "desc": "We tailor our services to your unique business needs."
+      },
+      "top_choice": "Top Choice"
+    },
+    "Process": {
+      "title": "How We Work",
+      "Consultation": {
+        "title": "Consultation",
+        "desc": "We listen to your needs and goals."
+      },
+      "Strategy": {
+        "title": "Strategy",
+        "desc": "We design a custom plan for your business."
+      },
+      "Implementation": {
+        "title": "Implementation",
+        "desc": "We implement solutions and keep you informed."
+      },
+      "Support": {
+        "title": "Support",
+        "desc": "We provide ongoing advice and updates."
+      }
+    },
+    "Testimonials": {
+      "title": "What Our Clients Say",
+      "description": "Discover how our finance and accounting expertise has helped businesses achieve their goals and maintain financial health.",
+      "AmitVerma": {
+        "name": "Amit Verma",
+        "company": "Verma Textiles Pvt Ltd",
+        "feedback": "FinAccount's team streamlined our accounting processes and provided invaluable tax advice. Their expertise and dedication have made a real difference to our business growth."
+      },
+      "SarahJohnson": {
+        "name": "Sarah Johnson",
+        "company": "Johnson Consulting",
+        "feedback": "Professional, reliable, and always available for support. Their financial management solutions helped us optimize cash flow and plan for expansion."
+      },
+      "MohammedAlFarsi": {
+        "name": "Mohammed Al-Farsi",
+        "company": "Al-Farsi Trading Co.",
+        "feedback": "We trust FinAccount for all our audit and compliance needs. Their attention to detail and proactive approach ensure we stay ahead of regulations."
+      }
+    },
+    "CTA": {
+      "title": "Ready to Transform Your Finances?",
+      "description": "Partner with us for expert accounting, strategic planning, and business growth. Take the next step toward financial clarity and success.",
+      "cta": "Get Started Now"
+    }
+  },
+  "TaxPlanning": {
+    "meta": {
+      "title": "Tax Planning Services",
+      "description": "Expert tax planning to save money, avoid penalties, and maximize deductions."
+    },
+    "Hero": {
+      "title": "Smart Tax Planning for Your Business",
+      "description": "Optimize your taxes, reduce liabilities, and achieve your financial goals with our expert guidance.",
+      "image_alt": "Tax Planning Illustration"
+    },
+    "Overview": {
+      "title": "Why Tax Planning Matters",
+
+      "save_money": {
+        "title": "Save Money",
+
+        "desc": "Strategic tax planning helps you keep more of your earnings."
+      },
+      "avoid_surprises": {
+        "title": "Avoid Surprises",
+        "desc": "Stay ahead of deadlines and regulations to prevent costly mistakes."
+      },
+      "achieve_goals": {
+        "title": "Achieve Your Goals",
+        "desc": "Plan for growth and future investments with confidence."
+      }
+    },
+    "Benefits": {
+      "title": "Key Benefits of Tax Planning",
+      "save_money": {
+        "title": "Save Money",
+        "desc": "Reduce your tax burden and increase your savings."
+      },
+      "avoid_penalties": {
+        "title": "Avoid Penalties",
+        "desc": "Stay compliant and avoid fines or interest charges."
+      },
+      "maximize_deductions": {
+        "title": "Maximize Deductions",
+        "desc": "Identify every opportunity to claim deductions and credits."
+      }
+    },
+    "Process": {
+      "title": "Our Tax Planning Process",
+      "description": "We guide you through every step to ensure optimal tax outcomes.",
+      "consultation": {
+        "title": "Consultation",
+        "desc": "We understand your business and financial situation.",
+        "note": "Schedule a free initial consultation."
+      },
+      "analysis": {
+        "title": "Analysis",
+        "desc": "We review your records and identify tax-saving opportunities.",
+        "note": "Comprehensive review of your finances."
+      },
+      "strategy": {
+        "title": "Strategy",
+        "desc": "We develop a custom tax plan tailored to your needs.",
+        "note": "Personalized recommendations for your business."
+      },
+      "implementation": {
+        "title": "Implementation",
+        "desc": "We help you execute the plan and stay compliant.",
+        "note": "Ongoing support and monitoring."
+      }
+    },
+    "FAQs": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about tax planning.",
+      "q1": "What is tax planning?",
+      "a1": "Tax planning is the process of organizing your finances to minimize tax liability and maximize savings.",
+      "q2": "Who needs tax planning?",
+      "a2": "Every business and individual can benefit from tax planning to optimize their financial outcomes.",
+      "q3": "How often should I review my tax plan?",
+      "a3": "It's best to review your tax plan annually or whenever your financial situation changes.",
+      "q4": "Can tax planning help me avoid penalties?",
+      "a4": "Yes, proper tax planning ensures compliance and helps you avoid fines or interest charges.",
+      "q5": "Do you offer consultations?",
+      "a5": "Yes, we offer free initial consultations to discuss your tax planning needs."
+    },
+    "CTA": {
+      "title": "Ready to Optimize Your Taxes?",
+      "description": "Contact us today for expert tax planning and personalized advice.",
+      "cta": "Get Started"
+    }
+  },
+  "AuditAssurance": {
+    "meta": {
+      "title": "Audit & Assurance | FinAccount",
+      "description": "Professional audit and assurance services for financial transparency and compliance."
+    },
+    "Hero": {
+      "title": "Audit & Assurance",
+      "description": "Ensure financial transparency, build trust, and stay compliant with our expert audit and assurance services.",
+      "image_alt": "Audit Assurance"
+    },
+    "Overview": {
+      "title": "Why Audit Assurance Matters"
+    },
+    "Benefits": {
+      "build_trust": {
+        "title": "Build Trust",
+        "desc": "Assure stakeholders of your financial integrity and reliability."
+      },
+      "detect_errors": {
+        "title": "Detect Errors",
+        "desc": "Identify mistakes and prevent fraud with expert review."
+      },
+      "meet_regulations": {
+        "title": "Meet Regulations",
+        "desc": "Stay compliant with legal and industry standards."
+      }
+    },
+    "Process": {
+      "title": "Our Audit Assurance Process",
+      "description": "Our thorough process ensures your financial statements are accurate, transparent, and compliant. We work closely with you from engagement to follow-up, providing actionable insights and ongoing support.",
+      "engagement": {
+        "title": "Engagement",
+        "desc": "We start with a clear agreement and understanding of your needs.",
+        "note": "We begin with a clear agreement and understanding of your needs."
+      },
+      "fieldwork": {
+        "title": "Fieldwork",
+        "desc": "Our team reviews your records and gathers evidence.",
+        "note": "Our team reviews your records and gathers evidence for accuracy."
+      },
+      "reporting": {
+        "title": "Reporting",
+        "desc": "We deliver clear, actionable reports and recommendations.",
+        "note": "Receive clear, actionable reports and recommendations."
+      },
+      "followup": {
+        "title": "Follow-up",
+        "desc": "We help you implement recommendations and stay compliant.",
+        "note": "We help you implement recommendations and stay compliant."
+      }
+    },
+    "FAQs": {
+      "title": "Audit Assurance FAQs",
+      "description": "Find answers to common questions about audit assurance, compliance, and our services.",
+      "q1": "What is audit assurance?",
+      "a1": "Audit assurance is an independent review of financial statements to ensure accuracy, transparency, and compliance with regulations.",
+      "q2": "Why do I need audit assurance?",
+      "a2": "It builds trust with stakeholders, helps detect errors, and ensures your business meets legal requirements.",
+      "q3": "Who performs audit assurance?",
+      "a3": "Qualified auditors and assurance professionals conduct thorough reviews using industry standards.",
+      "q4": "How often should audits be done?",
+      "a4": "Annual audits are common, but frequency depends on your business type and regulatory needs.",
+      "q5": "Do you offer customized audit solutions?",
+      "a5": "Yes, we tailor our audit and assurance services to fit your unique business requirements."
+    },
+    "CTA": {
+      "title": "Ready for Reliable Audit Assurance?",
+      "description": "Let our experts help you achieve financial transparency and compliance. Contact us today and build trust with your stakeholders.",
+      "cta": "Get Started"
+    }
+  },
+  "Bookkeeping": {
+    "meta": {
+      "title": "Bookkeeping | FinAccount",
+      "description": "Professional bookkeeping services for businesses and entrepreneurs."
+    },
+    "Hero": {
+      "title": "Bookkeeping",
+      "description": "Stay organized, make informed decisions, and stay compliant with our expert bookkeeping services tailored for you.",
+      "image_alt": "Bookkeeping"
+    },
+    "Overview": {
+      "title": "Why Bookkeeping Matters"
+    },
+    "Benefits": {
+      "stay_organized": {
+        "title": "Stay Organized",
+        "desc": "Keep your financial records clear, accurate, and accessible."
+      },
+      "informed_decisions": {
+        "title": "Make Informed Decisions",
+        "desc": "Use accurate data to guide your business strategy and growth."
+      },
+      "stay_compliant": {
+        "title": "Stay Compliant",
+        "desc": "Meet tax and regulatory requirements with ease."
+      }
+    },
+    "Process": {
+      "title": "Our Bookkeeping Process",
+      "description": "Our streamlined process ensures your books are accurate, up-to-date, and ready for decision-making. We guide you from setup to reporting, so you can focus on growing your business.",
+      "setup": {
+        "title": "Setup",
+        "desc": "We help you establish a reliable bookkeeping system.",
+        "note": "We help you establish a reliable bookkeeping system."
+      },
+      "recording": {
+        "title": "Recording",
+        "desc": "We record all your financial transactions accurately.",
+        "note": "We record all your financial transactions accurately."
+      },
+      "review": {
+        "title": "Review",
+        "desc": "We regularly review your books for accuracy and completeness.",
+        "note": "We regularly review your books for accuracy and completeness."
+      },
+      "reporting": {
+        "title": "Reporting",
+        "desc": "We provide clear financial reports to help you make decisions.",
+        "note": "We provide clear financial reports to help you make decisions."
+      }
+    },
+    "FAQs": {
+      "title": "Bookkeeping FAQs",
+      "description": "Find answers to common questions about bookkeeping, compliance, and our services.",
+      "q1": "What is bookkeeping?",
+      "a1": "Bookkeeping is the systematic recording and organizing of financial transactions for your business.",
+      "q2": "Why is bookkeeping important?",
+      "a2": "Accurate bookkeeping helps you track income and expenses, make informed decisions, and stay compliant with regulations.",
+      "q3": "Who needs bookkeeping services?",
+      "a3": "Businesses of all sizes, freelancers, and entrepreneurs benefit from professional bookkeeping.",
+      "q4": "How often should bookkeeping be done?",
+      "a4": "Bookkeeping should be done regularly—daily, weekly, or monthly—to ensure up-to-date records.",
+      "q5": "Do you offer customized bookkeeping solutions?",
+      "a5": "Yes, we tailor our bookkeeping services to fit your unique business needs and goals."
+    },
+    "CTA": {
+      "title": "Ready for Stress-Free Bookkeeping?",
+      "description": "Let our experts help you stay organized and compliant. Contact us today and focus on what you do best—growing your business.",
+      "cta": "Get Started"
+    }
+  },
+  "PayrollManagement": {
+    "meta": {
+      "title": "Payroll Management | FinAccount",
+      "description": "Professional payroll management services for businesses of all sizes."
+    },
+    "Hero": {
+      "title": "Payroll Management",
+      "description": "Ensure accuracy, compliance, and efficiency with our expert payroll management services tailored for your business.",
+      "image_alt": "Payroll Management"
+    },
+    "Overview": {
+      "title": "Why Payroll Management Matters"
+    },
+    "Benefits": {
+      "accuracy": {
+        "title": "Accuracy",
+        "desc": "Ensure employees are paid correctly and on time."
+      },
+      "compliance": {
+        "title": "Compliance",
+        "desc": "Stay up-to-date with tax laws and regulations."
+      },
+      "efficiency": {
+        "title": "Efficiency",
+        "desc": "Save time and reduce errors with automated payroll processes."
+      }
+    },
+    "Process": {
+      "title": "Our Payroll Management Process",
+      "description": "Our efficient process ensures your payroll is accurate, compliant, and hassle-free. We guide you from setup to compliance, so you can focus on your business and your team.",
+      "setup": {
+        "title": "Setup",
+        "desc": "We help you establish a reliable payroll system.",
+        "note": "We help you establish a reliable payroll system."
+      },
+      "processing": {
+        "title": "Processing",
+        "desc": "We process payroll accurately and on schedule.",
+        "note": "We process payroll accurately and on schedule."
+      },
+      "reporting": {
+        "title": "Reporting",
+        "desc": "We provide clear payroll reports and records.",
+        "note": "We provide clear payroll reports and records."
+      },
+      "compliance": {
+        "title": "Compliance",
+        "desc": "We ensure your payroll meets all legal requirements.",
+        "note": "We ensure your payroll meets all legal requirements."
+      }
+    },
+    "FAQs": {
+      "title": "Payroll Management FAQs",
+      "description": "Find answers to common questions about payroll management, compliance, and our services.",
+      "q1": "What is payroll management?",
+      "a1": "Payroll management is the process of administering employee salaries, wages, bonuses, deductions, and tax withholdings.",
+      "q2": "Why is payroll management important?",
+      "a2": "Accurate payroll ensures employees are paid correctly and on time, and helps your business stay compliant with regulations.",
+      "q3": "Who needs payroll management services?",
+      "a3": "Businesses of all sizes benefit from professional payroll management to reduce errors and save time.",
+      "q4": "How often should payroll be processed?",
+      "a4": "Payroll is typically processed weekly, bi-weekly, or monthly, depending on your business needs.",
+      "q5": "Do you offer customized payroll solutions?",
+      "a5": "Yes, we tailor our payroll management services to fit your unique business requirements."
+    },
+    "CTA": {
+      "title": "Ready for Hassle-Free Payroll?",
+      "description": "Let our experts help you manage payroll with accuracy and compliance. Contact us today and focus on growing your business and your team.",
+      "cta": "Get Started"
+    }
+  },
+  "FinancialConsulting": {
+    "meta": {
+      "title": "Financial Consulting | FinAccount",
+      "description": "Professional financial consulting services for individuals and businesses."
+    },
+    "Hero": {
+      "title": "Financial Consulting",
+      "description": "Make informed decisions, plan strategically, and protect your assets with our expert financial consulting services tailored for you.",
+      "image_alt": "Financial Consulting"
+    },
+    "Overview": {
+      "title": "Why Financial Consulting Matters"
+    },
+    "Benefits": {
+      "expert_guidance": {
+        "title": "Expert Guidance",
+        "desc": "Get professional advice for complex financial decisions."
+      },
+      "strategic_planning": {
+        "title": "Strategic Planning",
+        "desc": "Develop a roadmap to achieve your financial goals."
+      },
+      "risk_management": {
+        "title": "Risk Management",
+        "desc": "Protect your assets and minimize financial risks."
+      }
+    },
+    "Process": {
+      "title": "Our Financial Consulting Process",
+      "description": "Our proven process ensures you get the most out of your financial consulting experience. We guide you every step of the way, from discovery to implementation, so you can focus on your financial success.",
+      "discovery": {
+        "title": "Discovery",
+        "desc": "We learn about your financial situation and goals.",
+        "note": "We learn about your financial situation and goals."
+      },
+      "analysis": {
+        "title": "Analysis",
+        "desc": "We analyze your finances and identify opportunities.",
+        "note": "We analyze your finances and identify opportunities."
+      },
+      "strategy": {
+        "title": "Strategy",
+        "desc": "We develop a personalized financial plan for you.",
+        "note": "We develop a personalized financial plan for you."
+      },
+      "implementation": {
+        "title": "Implementation",
+        "desc": "We help you put your plan into action and monitor progress.",
+        "note": "We help you put your plan into action and monitor progress."
+      }
+    },
+    "FAQs": {
+      "title": "Financial Consulting FAQs",
+      "description": "Find answers to common questions about financial consulting, planning, and our services.",
+      "q1": "What is financial consulting?",
+      "a1": "Financial consulting provides expert advice to help you manage, grow, and protect your wealth or business finances.",
+      "q2": "Why is financial consulting important?",
+      "a2": "It helps you make informed decisions, optimize resources, and achieve your financial goals with confidence.",
+      "q3": "Who can benefit from financial consulting?",
+      "a3": "Individuals, families, and businesses of all sizes can benefit from professional financial consulting.",
+      "q4": "When should I seek financial consulting?",
+      "a4": "Anytime you face major financial decisions, changes, or want to plan for the future, consulting is valuable.",
+      "q5": "Do you offer personalized financial consulting?",
+      "a5": "Yes, our experts tailor strategies to your unique financial situation and goals."
+    },
+    "CTA": {
+      "title": "Ready for Expert Financial Consulting?",
+      "description": "Let our experts help you plan, grow, and protect your finances. Contact us today and take control of your financial future.",
+      "cta": "Get Started"
+    }
+  },
+  "InvestmentAdvisory": {
+    "meta": {
+      "title": "Investment Advisory | FinAccount",
+      "description": "Professional investment advisory services for individuals and businesses."
+    },
+    "Hero": {
+      "title": "Investment Advisory",
+      "description": "Grow your wealth, manage risk, and diversify your portfolio with our expert investment advisory services tailored for you.",
+      "image_alt": "Investment Advisory"
+    },
+    "Overview": {
+      "title": "Why Investment Advisory Matters"
+    },
+    "Benefits": {
+      "grow_wealth": {
+        "title": "Grow Wealth",
+        "desc": "Maximize returns and build your financial future."
+      },
+      "manage_risk": {
+        "title": "Manage Risk",
+        "desc": "Protect your investments and minimize losses."
+      },
+      "diversify_portfolio": {
+        "title": "Diversify Portfolio",
+        "desc": "Spread investments across assets for stability and growth."
+      }
+    },
+    "Process": {
+      "title": "Our Investment Advisory Process",
+      "description": "Our proven process ensures you get the most out of your investment advisory experience. We guide you every step of the way, from discovery to implementation, so you can focus on growing your wealth.",
+      "discovery": {
+        "title": "Discovery",
+        "desc": "We learn about your investment goals and risk tolerance.",
+        "note": "We learn about your investment goals and risk tolerance."
+      },
+      "analysis": {
+        "title": "Analysis",
+        "desc": "We analyze your current portfolio and market opportunities.",
+        "note": "We analyze your current portfolio and market opportunities."
+      },
+      "strategy": {
+        "title": "Strategy",
+        "desc": "We develop a personalized investment plan for you.",
+        "note": "We develop a personalized investment plan for you."
+      },
+      "implementation": {
+        "title": "Implementation",
+        "desc": "We help you execute your plan and monitor performance.",
+        "note": "We help you execute your plan and monitor performance."
+      }
+    },
+    "FAQs": {
+      "title": "Investment Advisory FAQs",
+      "description": "Find answers to common questions about investment advisory, planning, and our services.",
+      "q1": "What is investment advisory?",
+      "a1": "Investment advisory provides expert guidance to help you make informed decisions about your investments and financial future.",
+      "q2": "Why is investment advisory important?",
+      "a2": "It helps you grow your wealth, manage risks, and achieve your financial goals with confidence.",
+      "q3": "Who can benefit from investment advisory?",
+      "a3": "Individuals, families, and businesses of all sizes can benefit from professional investment advice.",
+      "q4": "When should I seek investment advice?",
+      "a4": "Anytime you want to invest, diversify, or plan for the future, advisory services are valuable.",
+      "q5": "Do you offer personalized investment strategies?",
+      "a5": "Yes, our experts tailor investment strategies to your unique financial situation and goals."
+    },
+    "CTA": {
+      "title": "Ready for Expert Investment Advice?",
+      "description": "Let our experts help you grow, protect, and diversify your investments. Contact us today and take control of your financial future.",
+      "cta": "Get Started"
+    }
+  },
+  "Blog": {
+    "meta": {
+      "title": "FinAccount Blog",
+      "description": "Insights and tips for finance, accounting, and business growth."
+    },
+    "Hero": {
+      "title": "FinAccount Blog",
+      "description": "Stay updated with the latest insights, tips, and strategies in finance, accounting, and business growth.",
+      "cta": "Explore Blogs"
+    },
+    "Featured": {
+      "title": "Featured Articles",
+      "description": "Read our latest posts on accounting, tax planning, and financial consulting. Click any article to learn more.",
+      "bookkeeping": {
+        "title": "Top 5 Bookkeeping Practices",
+        "desc": "Discover simple methods to track expenses, organize records, and stay financially healthy all year round."
+      },
+      "tax_saving": {
+        "title": "Smart Tax-Saving Moves for 2025",
+        "desc": "Find effective techniques to cut tax costs, maximize deductions, and boost profits for your business."
+      },
+      "advisory_success": {
+        "title": "How Advisory Services Fuel Success",
+        "desc": "See how strategic guidance empowers companies to scale, innovate, and achieve long-term financial growth."
+      },
+      "read_more": "Read More"
+    },
+    "About": {
+      "title": "About Our Blog",
+      "description": "Welcome to the FinAccount Blog—your trusted source for expert advice, actionable tips, and the latest trends in finance and accounting. Our mission is to empower entrepreneurs, business owners, and individuals with the knowledge they need to make smart financial decisions and achieve lasting success.",
+      "features": {
+        "0": {
+          "title": "Expert Insights",
+          "desc": "Articles written by seasoned professionals with years of industry experience."
+        },
+        "1": {
+          "title": "Actionable Tips",
+          "desc": "Practical advice and step-by-step guides to help you manage your finances with confidence."
+        },
+        "2": {
+          "title": "Latest Trends",
+          "desc": "Stay ahead with updates on regulations, technology, and best practices in the industry."
+        }
+      }
+    },
+    "Categories": {
+      "title": "Blog Categories",
+      "description": "Explore our diverse categories to find articles tailored to your interests and needs. Each category features expert advice, practical tips, and the latest updates in the world of finance and accounting.",
+      "items": {
+        "0": {
+          "name": "Accounting",
+          "desc": "Fundamentals, best practices, and tools for accurate record-keeping."
+        },
+        "1": {
+          "name": "Tax Planning",
+          "desc": "Strategies to minimize liabilities and stay compliant with regulations."
+        },
+        "2": {
+          "name": "Consulting",
+          "desc": "Expert guidance for business growth, investment, and decision-making."
+        },
+        "3": {
+          "name": "Business Growth",
+          "desc": "Tips and strategies to help your business scale and thrive."
+        },
+        "4": {
+          "name": "Compliance",
+          "desc": "Stay up-to-date with laws, standards, and regulatory changes."
+        },
+        "5": {
+          "name": "Tips & Resources",
+          "desc": "Handy guides, checklists, and resources for everyday financial success."
+        }
+      }
+    },
+    "Testimonials": {
+      "title": "Reader Testimonials",
+      "description": "See how our blog has helped readers stay informed and make better financial decisions.",
+      "items": {
+        "0": {
+          "name": "Priya Singh",
+          "feedback": "The accounting tips helped me organize my business finances and avoid costly mistakes."
+        },
+        "1": {
+          "name": "John Miller",
+          "feedback": "I love the practical advice and easy-to-understand articles. Highly recommended!"
+        },
+        "2": {
+          "name": "Fatima Al-Hassan",
+          "feedback": "The tax planning guides saved me a lot of money this year."
+        }
+      }
+    },
+    "CTA": {
+      "title": "Want More Insights?",
+      "description": "Subscribe to our newsletter for the latest updates, expert tips, and exclusive content delivered straight to your inbox.",
+      "cta": "Subscribe Now"
+    }
+  },
+  "BlogPractices": {
+    "0": {
+      "title": "1. Keep Records Up-to-Date",
+      "desc": "Timely recording of all financial transactions is the foundation of good bookkeeping. Update your books regularly to avoid errors and ensure you always have an accurate financial picture. This means entering sales, purchases, receipts, and payments as soon as they occur. Consistent record-keeping helps you stay organized, reduces stress during tax season, and allows you to quickly respond to financial questions or audits.",
+      "extra": "Tip: Set aside time each week to review and update your records, rather than waiting until the end of the month or year."
+    },
+    "1": {
+      "title": "2. Separate Business and Personal Finances",
+      "desc": "Maintain distinct accounts for business and personal expenses. This practice simplifies tax filing, improves clarity, and helps you track business performance more effectively. Mixing finances can lead to confusion, missed deductions, and potential legal issues. By keeping everything separate, you gain a clearer understanding of your business’s true financial health.",
+      "extra": "Tip: Open a dedicated business bank account and use it exclusively for business transactions."
+    },
+    "2": {
+      "title": "3. Reconcile Accounts Frequently",
+      "desc": "Regularly compare your books with bank statements to catch discrepancies early. Monthly reconciliations help prevent fraud, errors, and missed transactions. Reconciling ensures that your records match your actual cash flow and helps you spot unauthorized charges or bank errors before they become bigger problems.",
+      "extra": "Tip: Use reconciliation features in your bookkeeping software to automate and simplify the process."
+    },
+    "3": {
+      "title": "4. Use Bookkeeping Software",
+      "desc": "Leverage digital tools to automate repetitive tasks, reduce manual errors, and generate insightful reports. Choose software that fits your business size and needs. Modern bookkeeping platforms can connect to your bank, categorize transactions, and provide real-time financial dashboards. This saves time and gives you better control over your finances.",
+      "extra": "Tip: Research and select software that integrates with your other business tools, such as invoicing or payroll systems."
+    },
+    "4": {
+      "title": "5. Review Financial Reports",
+      "desc": "Analyze your financial statements—income, expenses, cash flow—at least monthly. Regular reviews help you spot trends, make informed decisions, and plan for growth. Reviewing reports allows you to identify areas for cost savings, track progress toward goals, and prepare for future investments or expansions.",
+      "extra": "Tip: Schedule monthly meetings to discuss financial reports with your accountant or team."
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "desc": "Adopting these top bookkeeping practices will help you maintain accurate records, make smarter business decisions, and stay compliant with regulations. Whether you’re a small business owner or managing a growing enterprise, consistent and organized bookkeeping is key to long-term success. Invest in good habits and the right tools, and don’t hesitate to seek professional advice when needed—your financial future will thank you!"
+    }
+  },
+  "BlogTaxSaving2025": {
+    "0": {
+      "title": "1. Maximize Retirement Contributions",
+      "desc": "Boost your savings and reduce taxable income by contributing the maximum allowed to retirement accounts like 401(k)s, IRAs, or other pension plans. These contributions often qualify for tax deductions, helping you save for the future while lowering your tax bill.",
+      "extra": "Tip: Review annual contribution limits and consider catch-up contributions if you’re age 50 or older."
+    },
+    "1": {
+      "title": "2. Take Advantage of Tax Credits",
+      "desc": "Explore credits such as the Child Tax Credit, Earned Income Tax Credit, and education credits. Credits directly reduce your tax liability and can result in significant savings, especially for families and students.",
+      "extra": "Tip: Use IRS tools or consult a tax professional to identify all credits you qualify for."
+    },
+    "2": {
+      "title": "3. Review Deductions and Expenses",
+      "desc": "Track deductible expenses like mortgage interest, medical costs, charitable donations, and business expenses. Itemizing deductions can lower your taxable income, but compare with the standard deduction to choose the best option.",
+      "extra": "Tip: Keep organized records and receipts throughout the year to simplify tax filing."
+    },
+    "3": {
+      "title": "4. Plan for Capital Gains and Losses",
+      "desc": "Strategically sell investments to offset gains with losses, minimizing your tax impact. Consider holding investments for more than a year to benefit from lower long-term capital gains rates.",
+      "extra": "Tip: Consult with a financial advisor before making major investment moves."
+    },
+    "4": {
+      "title": "5. Adjust Withholding and Estimated Payments",
+      "desc": "Review your tax withholding and estimated payments to avoid underpayment penalties or large tax bills. Adjust your W-4 or make quarterly payments if your income changes during the year.",
+      "extra": "Tip: Use the IRS withholding calculator to ensure you’re on track."
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "desc": "By planning ahead and using these smart tax-saving moves, you can keep more of your hard-earned money in 2025. Stay informed about changing tax laws, keep organized records, and consult with professionals when needed. Proactive tax planning is the key to financial success and peace of mind in the year ahead."
+    }
+  },
+  "BlogAdvisorySuccess": {
+    "0": {
+      "title": "1. Strategic Guidance Drives Growth",
+      "desc": "Expert advisory services provide tailored strategies that help businesses scale, innovate, and achieve long-term financial success.",
+      "extra": "Tip: Consult with advisors regularly to stay ahead of industry trends and challenges."
+    },
+    "1": {
+      "title": "2. Financial Planning for Success",
+      "desc": "Comprehensive financial planning ensures companies allocate resources efficiently, manage risks, and set achievable goals.",
+      "extra": "Tip: Use financial planning tools to track progress and adjust strategies as needed."
+    },
+    "2": {
+      "title": "3. Risk Management and Compliance",
+      "desc": "Advisory experts help businesses identify risks, implement controls, and maintain compliance with regulations, protecting assets and reputation.",
+      "extra": "Tip: Schedule regular risk assessments to keep your business secure."
+    },
+    "3": {
+      "title": "4. Innovation and Change Management",
+      "desc": "Advisory services guide organizations through change, fostering innovation and adapting to market shifts for sustained growth.",
+      "extra": "Tip: Encourage a culture of innovation and continuous improvement."
+    },
+    "4": {
+      "title": "5. Building Lasting Partnerships",
+      "desc": "Strong advisory relationships create lasting value, offering ongoing support and insights that drive business success year after year.",
+      "extra": "Tip: Invest in long-term partnerships with trusted advisors."
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "desc": "Advisory services are a catalyst for business success, providing strategic guidance, financial planning, risk management, and innovation. By partnering with experts, companies can navigate challenges, seize opportunities, and achieve sustainable growth. Make advisory support a cornerstone of your business strategy for lasting results."
+    }
+  },
+  "ContactUs": {
+    "Meta": {
+      "title": "Contact Us | FinAccount",
+      "description": "Get in touch with our finance and accounting experts."
+    },
+    "Hero": {
+      "title": "Contact Us",
+      "description": "Reach out for expert advice, support, or partnership opportunities. We're here to help your business grow.",
+      "image_alt": "Contact"
+    },
+    "Form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Thank you! Your message has been sent.",
+      "error": "There was an error submitting your message. Please try again."
+    },
+    "InfoCards": {
+      "0": {
+        "title": "Our Office",
+        "desc": "123 Finance St, Suite 456, Mumbai, India"
+      },
+      "1": {
+        "title": "Email Us",
+        "desc": "contact@stackly.com"
+      },
+      "2": {
+        "title": "Call Us",
+        "desc": "+91 98765 43210"
+      }
+    },
+    "FAQ": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about our finance and accounting services, support, and contact process.",
+      "0": {
+        "question": "How quickly will I get a response after submitting the contact form?",
+        "answer": "We aim to respond to all inquiries within 24 hours during business days. Urgent requests are prioritized."
+      },
+      "1": {
+        "question": "Can I schedule a consultation with your finance experts?",
+        "answer": "Absolutely! Please mention your preferred time in the message field, and our team will reach out to confirm your appointment."
+      },
+      "2": {
+        "question": "What information should I include in my message?",
+        "answer": "Please provide your name, contact details, and a brief description of your query or requirements for faster assistance."
+      },
+      "3": {
+        "question": "Do you offer support for international clients?",
+        "answer": "Yes, we work with clients globally and can accommodate different time zones and languages as needed."
+      },
+      "4": {
+        "question": "Is my information safe when I contact you?",
+        "answer": "Your privacy is important to us. All information shared is kept confidential and used only for service purposes."
+      }
+    },
+    "Map": {
+      "title": "Our Office Location"
+    },
+    "CTA": {
+      "title": "Ready to Connect?",
+      "description": "Let us help you with your finance and accounting needs. Reach out today and take the next step toward success.",
+      "email_placeholder": "Your Email Address",
+      "subscribe": "Subscribe"
+    }
+  },
+  "AdminDashboard": {
+    "title": "Admin Dashboard",
+    "all_Users": "All Users",
+    "user_activaty": "User Activity",
+    "statistics": "Statistics",
+    "stats": {
+      "total_users": "Total Users",
+      "description_total_users": "Number of registered users",
+      "logged_in_users": "Logged In Users",
+      "description_logged_in": "Users who logged in today",
+      "avg_daily_logins": "Avg Daily Logins",
+      "description_avg_logins": "Average logins per day",
+      "total_accounts": "Total Accounts",
+      "description_total_accounts": "Number of financial accounts managed"
+    },
+    "users_table": {
+      "title": "All Users",
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "logged_in": "Logged In",
+      "no_users": "No users found.",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "Pie": {
+      "all_users": "All Users",
+      "login_users": "Login Users"
+    },
+    "pie_chart": {
+      "title": "User Distribution"
+    },
+    "bar_chart": {
+      "title": "Daily Login Users",
+      "login_users": "Login Users"
+    }
+  }
+}
