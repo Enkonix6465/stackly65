@@ -159,7 +159,7 @@ const ContactPage = () => {
             </p>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/01/4f/37/014f37e8f2d3d600dedb58f5fff0d136.jpg"
               alt={t("ContactUs.Hero.image_alt")}
               width={500}

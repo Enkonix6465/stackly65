@@ -188,7 +188,7 @@ const PayrollManagementPage = () => {
             </p>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/1200x/32/47/cb/3247cb90e51c67e0f85fa0712d1f2715.jpg"
               alt={t("PayrollManagement.Hero.image_alt")}
               width={500}

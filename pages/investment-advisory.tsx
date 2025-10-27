@@ -191,7 +191,7 @@ const InvestmentAdvisoryPage = () => {
             </p>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/45/0e/eb/450eeb4da87813acd5a3780f8e09b2a8.jpg"
               alt={t("InvestmentAdvisory.Hero.image_alt")}
               width={500}

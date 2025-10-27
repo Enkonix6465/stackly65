@@ -188,7 +188,7 @@ const FinancialConsultingPage = () => {
             </p>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/4a/1a/36/4a1a3673a64269926efccc0e1b863fe5.jpg"
               alt={t("FinancialConsulting.Hero.image_alt")}
               width={500}

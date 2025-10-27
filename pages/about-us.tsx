@@ -70,7 +70,7 @@ const AboutUs: React.FC = () => {
             </Link>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/93/bf/d1/93bfd1c9bcce4b7b1ae589c94a0616e6.jpg"
               alt={t("AboutUs.Hero.image_alt")}
               width={500}
@@ -84,7 +84,7 @@ const AboutUs: React.FC = () => {
         <section className="py-20 px-8 flex flex-col md:flex-row items-center gap-16 bg-gradient-to-tr from-blue-100 via-white to-blue-200 dark:from-blue-950 dark:via-gray-900 dark:to-blue-900">
           <div className="flex-1 flex justify-center">
             <div className="relative">
-              <Image
+              <img
                 src="https://i.pinimg.com/1200x/a6/e9/f6/a6e9f6ee10fd676fc64aba5390a74a52.jpg"
                 alt={t("AboutUs.Story.image_alt")}
                 width={500}
@@ -259,7 +259,7 @@ const AboutUs: React.FC = () => {
                   className="group flex flex-col items-center bg-gradient-to-br from-white via-blue-100 to-[#21c2ad] dark:from-blue-950 dark:via-blue-900 dark:to-[#155dfc] rounded-2xl shadow-xl p-8 border-2 border-transparent hover:border-[#21c2ad] transition-all duration-300 hover:scale-105 hover:shadow-2xl"
                 >
                   <div className="relative mb-4">
-                    <Image
+                    <img
                       src={member.img}
                       alt={t(member.nameKey)}
                       width={100}

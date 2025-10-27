@@ -127,7 +127,7 @@ const Home2: React.FC = () => {
             </Link>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/d4/35/ed/d435ed9e28566f1c51838931a449d97c.jpg"
               alt={t("Home2.Hero.image_alt")}
               width={400}
@@ -140,7 +140,7 @@ const Home2: React.FC = () => {
         {/* About Section */}
         <section className="py-20 px-8 flex flex-col md:flex-row items-center gap-16 bg-gradient-to-tr from-blue-100 via-white to-blue-200 dark:from-blue-950 dark:via-gray-900 dark:to-blue-900">
           <div className="flex-1 flex justify-center">
-            <Image
+            <img
               src="https://i.pinimg.com/1200x/0f/64/6b/0f646bd50e3088728b6db129b87471ab.jpg"
               alt={t("Home2.About.image_alt")}
               width={400}

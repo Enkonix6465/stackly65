@@ -207,7 +207,7 @@ const AuthPage: React.FC = () => {
           <ModeToggle />
         </div>
         <div className="bg-white dark:bg-blue-950 rounded-xl shadow-xl p-8 flex flex-col items-center gap-8 border border-blue-100 dark:border-blue-900 w-full max-w-md">
-          <Image
+          <img
             src="https://i.postimg.cc/DwdH9gv8/logo-stackly.png"
             alt="Finance Logo"
             width={120}

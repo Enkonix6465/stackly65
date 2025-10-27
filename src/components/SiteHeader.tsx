@@ -95,7 +95,7 @@ const SiteHeader: React.FC = () => {
       <nav className="flex items-center justify-between px-6 py-3">
         {/* Logo */}
         <Link href={"/home1"} className="flex">
-          <Image
+          <img
             src="https://i.postimg.cc/DwdH9gv8/logo-stackly.png"
             alt="Finance Logo"
             className=""

@@ -256,7 +256,7 @@ const Services = (props: Props) => {
             </Link>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/1200x/42/ce/89/42ce89e401941b9786f80c74ec84ce36.jpg"
               alt={t("Services.Hero.image_alt")}
               width={320}
@@ -388,7 +388,7 @@ const Services = (props: Props) => {
                   className="bg-white dark:bg-blue-950 rounded-2xl shadow-lg p-8 flex flex-col items-center text-center"
                 >
                   <div className="w-20 h-20 rounded-full overflow-hidden mb-4 border-4 border-blue-100 dark:border-blue-900">
-                    <Image
+                    <img
                       src={client.img}
                       alt={t(client.nameKey)}
                       width={80}

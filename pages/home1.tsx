@@ -56,7 +56,7 @@ const Home1: React.FC = () => {
               {/* Image Grid */}
               <div className=" flex  gap-6 w-full">
                 <div className="    rounded-lg shadow-lg overflow-hidden">
-                  <Image
+                  <img
                     src="https://i.pinimg.com/736x/03/38/39/033839f45eb8e70c0c5664547ca1c2ae.jpg"
                     alt={t("Home1.about_image1_alt")}
                     width={300}
@@ -65,14 +65,14 @@ const Home1: React.FC = () => {
                   />
                 </div>
                 <div className="rounded-lg flex flex-col gap-2 shadow-lg   ">
-                  <Image
+                  <img
                     src="https://i.pinimg.com/736x/2e/6d/82/2e6d82123a4ef5422984ea07fa6ad0cd.jpg"
                     alt={t("Home1.about_image2_alt")}
                     width={200}
                     height={120}
                     className="object-cover rounded-lg w-full h-1/2"
                   />
-                  <Image
+                  <img
                     src="https://i.pinimg.com/736x/18/d3/7f/18d37fc251919ef267541fd5d406c821.jpg"
                     alt={t("Home1.about_image3_alt")}
                     width={200}
@@ -425,7 +425,7 @@ const Home1: React.FC = () => {
             <div className="flex flex-col md:flex-row items-center gap-12">
               {/* Left: Business Image with Play Button Overlay */}
               <div className="relative w-full md:w-1/2 flex-shrink-0 flex justify-center items-center">
-                <Image
+                <img
                   src="https://i.pinimg.com/736x/f7/8f/01/f78f01d3c134c2de5fc97a28a3538595.jpg"
                   alt={t("Home1.process_image_alt")}
                   width={480}
@@ -588,7 +588,7 @@ const Home1: React.FC = () => {
                   className="bg-gradient-to-br from-blue-50 via-white to-blue-100 dark:from-blue-950 dark:via-gray-900 dark:to-blue-900 rounded-2xl shadow-lg p-6 flex flex-col items-center w-full max-w-xs group relative"
                 >
                   <div className="w-full h-64 rounded-xl overflow-hidden mb-4 flex items-center justify-center">
-                    <Image
+                    <img
                       src={member.img}
                       alt={member.name}
                       width={300}

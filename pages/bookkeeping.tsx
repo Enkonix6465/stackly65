@@ -185,7 +185,7 @@ const BookkeepingPage = () => {
             </p>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/1200x/0a/f6/1d/0af61d1cf6aa67e8885dd7020711e251.jpg"
               alt={t("Bookkeeping.Hero.image_alt")}
               width={500}

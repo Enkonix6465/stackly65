@@ -181,7 +181,7 @@ const TaxPlanningPage = () => {
             </p>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/b0/bc/ee/b0bcee41fad693664d4c56e429f5f946.jpg"
               alt={t("TaxPlanning.Hero.image_alt")}
               width={500}

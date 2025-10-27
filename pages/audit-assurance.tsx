@@ -188,7 +188,7 @@ const AuditAssurancePage = () => {
             </p>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/1200x/ad/17/e0/ad17e0d1d5a9897a3e749ba056abc775.jpg"
               alt={t("AuditAssurance.Hero.image_alt")}
               width={500}

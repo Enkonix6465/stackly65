@@ -72,7 +72,7 @@ const Blog = () => {
             </Link>
           </div>
           <div className="relative flex-1 flex justify-center items-center z-20">
-            <Image
+            <img
               src="https://i.pinimg.com/736x/65/5b/81/655b81dc33c00f9fd29ce510700bdebf.jpg"
               alt="Blog Hero"
               width={500}
@@ -113,7 +113,7 @@ const Blog = () => {
                           "linear-gradient(90deg, #21c2ad22 0%, #155dfc22 100%)",
                       }}
                     >
-                      <Image
+                      <img
                         src={blog.img}
                         alt={t(blog.titleKey)}
                         width={320}
@@ -405,7 +405,7 @@ const Blog = () => {
                   className="bg-white dark:bg-blue-900   rounded-2xl shadow-lg p-8 flex flex-col items-center text-center"
                 >
                   <div className="w-20 h-20 rounded-full overflow-hidden mb-4 border-4 border-blue-100 dark:border-blue-900">
-                    <Image
+                    <img
                       src={reader.img}
                       alt={reader.name}
                       width={80}
